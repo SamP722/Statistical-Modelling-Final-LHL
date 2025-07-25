@@ -1,0 +1,4 @@
+.DS_Store
+notebooks/.ipynb_checkpoints/
+notebooks/Untitled.ipynb
+api_keys/secrets.env
