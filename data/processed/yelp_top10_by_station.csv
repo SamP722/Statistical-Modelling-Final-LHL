@@ -1,0 +1,301 @@
+station_id,name,rating,review_count,price,category_main,location.address1,distance
+0013e5d100f68121835052a381ab2f23,Café Guerrero,5.0,5,$,Cafes,6750 Avenue de l'Esplanade,8401.662765588346
+0013e5d100f68121835052a381ab2f23,Café Caron & Frères,5.0,6,,Cafes,26 Rue Belanger,8706.178113994498
+0013e5d100f68121835052a381ab2f23,Café Kuya,5.0,6,,Filipino,1200 Boulevard Rome,5915.606589443078
+0013e5d100f68121835052a381ab2f23,Bistro Isakaya,5.0,9,,Japanese,8178 Boulevard Champlain,5554.146472829999
+0013e5d100f68121835052a381ab2f23,Café Léo,5.0,6,,Cafes,1215 Rue Berri,5743.381497809898
+0013e5d100f68121835052a381ab2f23,Anita Empanadas,5.0,5,,Argentine,1200 Boulevard Rome,5924.864652819684
+0013e5d100f68121835052a381ab2f23,Casa de Pastel,5.0,5,,Coffee & Tea,4514 Avenue du Parc,6297.7261758528975
+0013e5d100f68121835052a381ab2f23,Piazza Salumi,5.0,5,,Italian,6833 Boulevard Saint-Laurent,8635.856027207818
+0013e5d100f68121835052a381ab2f23,Bar Dominion,5.0,5,,Seafood,1243 Rue Metcalfe,4224.47181820654
+0013e5d100f68121835052a381ab2f23,Nama Omakase,5.0,8,,Japanese,425 Viger Ouest,4476.472376178443
+0040082e616edec293c0c74fcbf825c4,Café Les 3 Jerks,5.0,7,,Haitian,2636 Rue de Bellechasse,5549.804974046589
+0040082e616edec293c0c74fcbf825c4,Café Guerrero,5.0,5,$,Cafes,6750 Avenue de l'Esplanade,5163.658524165239
+0040082e616edec293c0c74fcbf825c4,Café Caron & Frères,5.0,6,,Cafes,26 Rue Belanger,5305.691641720734
+0040082e616edec293c0c74fcbf825c4,Café Kuya,5.0,6,,Filipino,1200 Boulevard Rome,7487.134387690317
+0040082e616edec293c0c74fcbf825c4,Café Léo,5.0,6,,Cafes,1215 Rue Berri,1393.176735130657
+0040082e616edec293c0c74fcbf825c4,Anita Empanadas,5.0,5,,Argentine,1200 Boulevard Rome,7496.330999047867
+0040082e616edec293c0c74fcbf825c4,Casa de Pastel,5.0,5,,Coffee & Tea,4514 Avenue du Parc,2675.5133617238434
+0040082e616edec293c0c74fcbf825c4,Piazza Salumi,5.0,5,,Italian,6833 Boulevard Saint-Laurent,5242.4136571146555
+0040082e616edec293c0c74fcbf825c4,Bar Dominion,5.0,5,,Seafood,1243 Rue Metcalfe,689.2479995998368
+0040082e616edec293c0c74fcbf825c4,Nama Omakase,5.0,8,,Japanese,425 Viger Ouest,108.61258398707874
+00b7595b843f69c9041fca9e4e84700b,Café Les 3 Jerks,5.0,7,,Haitian,2636 Rue de Bellechasse,5880.56941351909
+00b7595b843f69c9041fca9e4e84700b,Café Guerrero,5.0,5,$,Cafes,6750 Avenue de l'Esplanade,2778.993826897507
+00b7595b843f69c9041fca9e4e84700b,Café Caron & Frères,5.0,6,,Cafes,26 Rue Belanger,3221.4418952942883
+00b7595b843f69c9041fca9e4e84700b,Café Léo,5.0,6,,Cafes,1215 Rue Berri,5829.319270233619
+00b7595b843f69c9041fca9e4e84700b,Casa de Pastel,5.0,5,,Coffee & Tea,4514 Avenue du Parc,3486.530633063019
+00b7595b843f69c9041fca9e4e84700b,Piazza Salumi,5.0,5,,Italian,6833 Boulevard Saint-Laurent,3176.199621971684
+00b7595b843f69c9041fca9e4e84700b,Bar Dominion,5.0,5,,Seafood,1243 Rue Metcalfe,4823.384596682779
+00b7595b843f69c9041fca9e4e84700b,Nama Omakase,5.0,8,,Japanese,425 Viger Ouest,5487.160116902764
+00b7595b843f69c9041fca9e4e84700b,Restaurant Gault,5.0,5,,Breakfast & Brunch,449 Rue Saint Helene,5828.48707581976
+00b7595b843f69c9041fca9e4e84700b,NDG Luncheonette,5.0,6,,Breakfast & Brunch,6800 Fielding Avenue,4709.90505092957
+00c210cb99cf9d1b923c1548938aee56,Café Les 3 Jerks,5.0,7,,Haitian,2636 Rue de Bellechasse,2751.5824808093516
+00c210cb99cf9d1b923c1548938aee56,Café Guerrero,5.0,5,$,Cafes,6750 Avenue de l'Esplanade,620.1877436519022
+00c210cb99cf9d1b923c1548938aee56,Café Caron & Frères,5.0,6,,Cafes,26 Rue Belanger,218.41828926850184
+00c210cb99cf9d1b923c1548938aee56,Café Léo,5.0,6,,Cafes,1215 Rue Berri,5016.006565702323
+00c210cb99cf9d1b923c1548938aee56,Casa de Pastel,5.0,5,,Coffee & Tea,4514 Avenue du Parc,2842.2118410482185
+00c210cb99cf9d1b923c1548938aee56,Piazza Salumi,5.0,5,,Italian,6833 Boulevard Saint-Laurent,288.793178055776
+00c210cb99cf9d1b923c1548938aee56,Bar Dominion,5.0,5,,Seafood,1243 Rue Metcalfe,5147.91730695482
+00c210cb99cf9d1b923c1548938aee56,Nama Omakase,5.0,8,,Japanese,425 Viger Ouest,5460.594935318544
+00c210cb99cf9d1b923c1548938aee56,Restaurant Gault,5.0,5,,Breakfast & Brunch,449 Rue Saint Helene,5823.604198295891
+00c210cb99cf9d1b923c1548938aee56,NDG Luncheonette,5.0,6,,Breakfast & Brunch,6800 Fielding Avenue,8028.519715458032
+00c84f03ca5970eaa144ed6867d1e2b9,Le Saint-Jacques,4.7,10,$$$,Italian,6001 Rue de Jumonville,8599.966370558905
+00c84f03ca5970eaa144ed6867d1e2b9,Sushi Hamachi,4.7,24,,Japanese,690 Rue de Montbrun,982.4308593157101
+00c84f03ca5970eaa144ed6867d1e2b9,Saint-Laurent Café,4.7,9,$$,Cafes,578 Rue Saint-Charles,224.86918520011406
+00c84f03ca5970eaa144ed6867d1e2b9,Café Le Spot,4.6,8,,Cafes,1015 Rue Lionel-Daunais,2744.1916535287974
+00c84f03ca5970eaa144ed6867d1e2b9,Fusion Latino,4.6,21,,Mexican,3336 Rue Ontario E,10772.67763453835
+00c84f03ca5970eaa144ed6867d1e2b9,Hélicoptère,4.6,57,,Canadian (New),4255 Rue Ontario E,9709.677446192843
+00c84f03ca5970eaa144ed6867d1e2b9,Chez Simon Cantine Urbaine,4.5,13,,Fast Food,8517 Rue Hochelaga,5647.30292321917
+00c84f03ca5970eaa144ed6867d1e2b9,Chez To Go,4.8,4,,Asian Fusion,9041 Rue Notre-Dame E,4886.868549556848
+00c84f03ca5970eaa144ed6867d1e2b9,Boulangerie Ange,4.5,6,,Bakeries,95 Boulevard de Mortagne,4145.911424055787
+00c84f03ca5970eaa144ed6867d1e2b9,Peccadille,5.0,3,,Chocolatiers & Shops,629 Rue Adoncour,7251.501518223979
+00d9a9cfbe247f789b2354e2f4251c14,Café Les 3 Jerks,5.0,7,,Haitian,2636 Rue de Bellechasse,990.9382649439449
+00d9a9cfbe247f789b2354e2f4251c14,Café Guerrero,5.0,5,$,Cafes,6750 Avenue de l'Esplanade,4036.4626232909127
+00d9a9cfbe247f789b2354e2f4251c14,Café Caron & Frères,5.0,6,,Cafes,26 Rue Belanger,3680.4311522772887
+00d9a9cfbe247f789b2354e2f4251c14,Café Léo,5.0,6,,Cafes,1215 Rue Berri,4195.128256502742
+00d9a9cfbe247f789b2354e2f4251c14,Casa de Pastel,5.0,5,,Coffee & Tea,4514 Avenue du Parc,3933.392794987926
+00d9a9cfbe247f789b2354e2f4251c14,Piazza Salumi,5.0,5,,Italian,6833 Boulevard Saint-Laurent,3690.5388503251797
+00d9a9cfbe247f789b2354e2f4251c14,Bar Dominion,5.0,5,,Seafood,1243 Rue Metcalfe,5537.332401205879
+00d9a9cfbe247f789b2354e2f4251c14,Nama Omakase,5.0,8,,Japanese,425 Viger Ouest,5340.086894035782
+00d9a9cfbe247f789b2354e2f4251c14,Restaurant Gault,5.0,5,,Breakfast & Brunch,449 Rue Saint Helene,5577.408918584437
+00d9a9cfbe247f789b2354e2f4251c14,Máti,5.0,8,,Greek,185 Rue Saint-Paul Ouest,5464.368847182508
+00e29ec2eb64a7c141edf1729b02cfd0,Café Les 3 Jerks,5.0,7,,Haitian,2636 Rue de Bellechasse,5589.635458380461
+00e29ec2eb64a7c141edf1729b02cfd0,Café Guerrero,5.0,5,$,Cafes,6750 Avenue de l'Esplanade,4594.73075337968
+00e29ec2eb64a7c141edf1729b02cfd0,Café Caron & Frères,5.0,6,,Cafes,26 Rue Belanger,4811.718996053466
+00e29ec2eb64a7c141edf1729b02cfd0,Café Kuya,5.0,6,,Filipino,1200 Boulevard Rome,8113.453184461341
+00e29ec2eb64a7c141edf1729b02cfd0,Café Léo,5.0,6,,Cafes,1215 Rue Berri,2131.9637180290256
+00e29ec2eb64a7c141edf1729b02cfd0,Anita Empanadas,5.0,5,,Argentine,1200 Boulevard Rome,8122.928778698198
+00e29ec2eb64a7c141edf1729b02cfd0,Casa de Pastel,5.0,5,,Coffee & Tea,4514 Avenue du Parc,2223.746197198562
+00e29ec2eb64a7c141edf1729b02cfd0,Piazza Salumi,5.0,5,,Italian,6833 Boulevard Saint-Laurent,4743.829665164526
+00e29ec2eb64a7c141edf1729b02cfd0,Bar Dominion,5.0,5,,Seafood,1243 Rue Metcalfe,368.71095200329825
+00e29ec2eb64a7c141edf1729b02cfd0,Nama Omakase,5.0,8,,Japanese,425 Viger Ouest,1119.4791790205356
+014e10dba2d92bd20c826b88864dc6b6,Café Les 3 Jerks,5.0,7,,Haitian,2636 Rue de Bellechasse,5048.38859024365
+014e10dba2d92bd20c826b88864dc6b6,Café Guerrero,5.0,5,$,Cafes,6750 Avenue de l'Esplanade,4476.962913389653
+014e10dba2d92bd20c826b88864dc6b6,Café Caron & Frères,5.0,6,,Cafes,26 Rue Belanger,4628.9705965089415
+014e10dba2d92bd20c826b88864dc6b6,Café Kuya,5.0,6,,Filipino,1200 Boulevard Rome,8167.217461401349
+014e10dba2d92bd20c826b88864dc6b6,Café Léo,5.0,6,,Cafes,1215 Rue Berri,1382.5214622148749
+014e10dba2d92bd20c826b88864dc6b6,Anita Empanadas,5.0,5,,Argentine,1200 Boulevard Rome,8176.463055726125
+014e10dba2d92bd20c826b88864dc6b6,Casa de Pastel,5.0,5,,Coffee & Tea,4514 Avenue du Parc,1993.0709092072314
+014e10dba2d92bd20c826b88864dc6b6,Piazza Salumi,5.0,5,,Italian,6833 Boulevard Saint-Laurent,4564.823902102302
+014e10dba2d92bd20c826b88864dc6b6,Bar Dominion,5.0,5,,Seafood,1243 Rue Metcalfe,511.01245938153147
+014e10dba2d92bd20c826b88864dc6b6,Nama Omakase,5.0,8,,Japanese,425 Viger Ouest,676.8437569332511
+01eb2ebf1d0478ffdc9ea49c43a4b7ae,Bistro Isakaya,5.0,9,,Japanese,8178 Boulevard Champlain,3700.4876796352232
+01eb2ebf1d0478ffdc9ea49c43a4b7ae,Café Léo,5.0,6,,Cafes,1215 Rue Berri,7086.552661728747
+01eb2ebf1d0478ffdc9ea49c43a4b7ae,Casa de Pastel,5.0,5,,Coffee & Tea,4514 Avenue du Parc,6719.461459288019
+01eb2ebf1d0478ffdc9ea49c43a4b7ae,Bar Dominion,5.0,5,,Seafood,1243 Rue Metcalfe,5290.3379174685915
+01eb2ebf1d0478ffdc9ea49c43a4b7ae,Nama Omakase,5.0,8,,Japanese,425 Viger Ouest,5832.2353329723255
+01eb2ebf1d0478ffdc9ea49c43a4b7ae,Restaurant Gault,5.0,5,,Breakfast & Brunch,449 Rue Saint Helene,5838.472818354306
+01eb2ebf1d0478ffdc9ea49c43a4b7ae,NDG Luncheonette,5.0,6,,Breakfast & Brunch,6800 Fielding Avenue,3782.5963955177094
+01eb2ebf1d0478ffdc9ea49c43a4b7ae,YeSushi,5.0,9,,Sushi Bars,1723 Rue Poirier,10467.669109063638
+01eb2ebf1d0478ffdc9ea49c43a4b7ae,Komma Rosta,5.0,5,,Asian Fusion,5300 Rue Wellington,2357.2640738166688
+01eb2ebf1d0478ffdc9ea49c43a4b7ae,Saint JJH & Cafe,5.0,6,,Cafes,3323 Rue Evelyn,2667.219273528828
+01f9b7e63833ad61e80a7963e2ad9b25,Café Les 3 Jerks,5.0,7,,Haitian,2636 Rue de Bellechasse,3370.330907227771
+01f9b7e63833ad61e80a7963e2ad9b25,Café Guerrero,5.0,5,$,Cafes,6750 Avenue de l'Esplanade,6149.036555892643
+01f9b7e63833ad61e80a7963e2ad9b25,Café Caron & Frères,5.0,6,,Cafes,26 Rue Belanger,5706.056378772044
+01f9b7e63833ad61e80a7963e2ad9b25,Café Léo,5.0,6,,Cafes,1215 Rue Berri,7464.3791762374885
+01f9b7e63833ad61e80a7963e2ad9b25,Casa de Pastel,5.0,5,,Coffee & Tea,4514 Avenue du Parc,6974.395244462583
+01f9b7e63833ad61e80a7963e2ad9b25,Piazza Salumi,5.0,5,,Italian,6833 Boulevard Saint-Laurent,5751.909058469163
+01f9b7e63833ad61e80a7963e2ad9b25,Van Houtte,5.0,6,,Cafes,3575 Avenue du Parc,7693.329115238319
+01f9b7e63833ad61e80a7963e2ad9b25,Kes-Kes,5.0,6,,Mediterranean,6961 Boulevard Saint-Laurent,5737.944529088713
+01f9b7e63833ad61e80a7963e2ad9b25,Mini Bouchées Café,5.0,7,,Creperies,502 Rue Jarry E,5421.96153157503
+01f9b7e63833ad61e80a7963e2ad9b25,Caifan,5.0,9,,Mexican,4542 Rue Saint-Denis,6135.711842362629
+02044f52405851c50980c20964349a5d,Café Les 3 Jerks,5.0,7,,Haitian,2636 Rue de Bellechasse,2326.027695652033
+02044f52405851c50980c20964349a5d,Café Guerrero,5.0,5,$,Cafes,6750 Avenue de l'Esplanade,912.4779659063538
+02044f52405851c50980c20964349a5d,Café Caron & Frères,5.0,6,,Cafes,26 Rue Belanger,660.8662215565118
+02044f52405851c50980c20964349a5d,Café Léo,5.0,6,,Cafes,1215 Rue Berri,4258.699810994488
+02044f52405851c50980c20964349a5d,Casa de Pastel,5.0,5,,Coffee & Tea,4514 Avenue du Parc,2206.2733059542707
+02044f52405851c50980c20964349a5d,Piazza Salumi,5.0,5,,Italian,6833 Boulevard Saint-Laurent,635.8327259189638
+02044f52405851c50980c20964349a5d,Bar Dominion,5.0,5,,Seafood,1243 Rue Metcalfe,4515.055513850979
+02044f52405851c50980c20964349a5d,Nama Omakase,5.0,8,,Japanese,425 Viger Ouest,4770.489737618581
+02044f52405851c50980c20964349a5d,Restaurant Gault,5.0,5,,Breakfast & Brunch,449 Rue Saint Helene,5127.623446304368
+02044f52405851c50980c20964349a5d,NDG Luncheonette,5.0,6,,Breakfast & Brunch,6800 Fielding Avenue,8080.309107521574
+0217b73736addb107209816f03000a18,Bistro Isakaya,5.0,9,,Japanese,8178 Boulevard Champlain,4904.195645670781
+0217b73736addb107209816f03000a18,Bar Dominion,5.0,5,,Seafood,1243 Rue Metcalfe,10520.44617612041
+0217b73736addb107209816f03000a18,NDG Luncheonette,5.0,6,,Breakfast & Brunch,6800 Fielding Avenue,3804.8121711385493
+0217b73736addb107209816f03000a18,Kouzina,5.0,5,,Mediterranean,452 Avenue Dorval,5436.541330896276
+0217b73736addb107209816f03000a18,Sushi Sama,5.0,5,,Sushi Bars,5200A Chemin de la Côte-des-Neiges,7565.182992787993
+0217b73736addb107209816f03000a18,Mintar,4.9,12,,Cafes,3418B Avenue du Parc,11099.13915612928
+0217b73736addb107209816f03000a18,Lefalafel,4.9,7,,Falafel,6245 Boulevard Décarie,6246.804046431531
+0217b73736addb107209816f03000a18,La Guanaquita,4.9,7,$,Salvadoran,1659 Avenue Dollard,3510.7735368016056
+0217b73736addb107209816f03000a18,Limeni,4.9,7,,Mediterranean,5942 Rue Sherbrooke O,5386.086355364385
+0217b73736addb107209816f03000a18,Kyodai Izakaya,4.8,6,,Japanese,2186 Sainte-Catherine O,9099.19354807051
+0243c740e1d4fe272e0c414cdd900c7d,Café Les 3 Jerks,5.0,7,,Haitian,2636 Rue de Bellechasse,1654.4094477532599
+0243c740e1d4fe272e0c414cdd900c7d,Café Guerrero,5.0,5,$,Cafes,6750 Avenue de l'Esplanade,3535.909747685191
+0243c740e1d4fe272e0c414cdd900c7d,Café Caron & Frères,5.0,6,,Cafes,26 Rue Belanger,3090.5075754882378
+0243c740e1d4fe272e0c414cdd900c7d,Café Léo,5.0,6,,Cafes,1215 Rue Berri,6064.855970770013
+0243c740e1d4fe272e0c414cdd900c7d,Casa de Pastel,5.0,5,,Coffee & Tea,4514 Avenue du Parc,4842.0473752691205
+0243c740e1d4fe272e0c414cdd900c7d,Piazza Salumi,5.0,5,,Italian,6833 Boulevard Saint-Laurent,3143.0998754253314
+0243c740e1d4fe272e0c414cdd900c7d,Bar Dominion,5.0,5,,Seafood,1243 Rue Metcalfe,6970.455400011197
+0243c740e1d4fe272e0c414cdd900c7d,Nama Omakase,5.0,8,,Japanese,425 Viger Ouest,6994.020756130328
+0243c740e1d4fe272e0c414cdd900c7d,Restaurant Gault,5.0,5,,Breakfast & Brunch,449 Rue Saint Helene,7299.166349072802
+0243c740e1d4fe272e0c414cdd900c7d,YeSushi,5.0,9,,Sushi Bars,1723 Rue Poirier,8783.187137937193
+0274ec7d6cd70a5f7e5fc21edc47b801,Café Les 3 Jerks,5.0,7,,Haitian,2636 Rue de Bellechasse,5926.58633764318
+0274ec7d6cd70a5f7e5fc21edc47b801,Café Caron & Frères,5.0,6,,Cafes,26 Rue Belanger,7937.018176000778
+0274ec7d6cd70a5f7e5fc21edc47b801,Café Léo,5.0,6,,Cafes,1215 Rue Berri,4348.804543972242
+0274ec7d6cd70a5f7e5fc21edc47b801,Casa de Pastel,5.0,5,,Coffee & Tea,4514 Avenue du Parc,6414.528355491104
+0274ec7d6cd70a5f7e5fc21edc47b801,Piazza Salumi,5.0,5,,Italian,6833 Boulevard Saint-Laurent,7912.366688900424
+0274ec7d6cd70a5f7e5fc21edc47b801,Bar Dominion,5.0,5,,Seafood,1243 Rue Metcalfe,6081.513202445995
+0274ec7d6cd70a5f7e5fc21edc47b801,Nama Omakase,5.0,8,,Japanese,425 Viger Ouest,5382.530779059003
+0274ec7d6cd70a5f7e5fc21edc47b801,Restaurant Gault,5.0,5,,Breakfast & Brunch,449 Rue Saint Helene,5282.87753237784
+0274ec7d6cd70a5f7e5fc21edc47b801,Saint JJH & Cafe,5.0,6,,Cafes,3323 Rue Evelyn,8574.363190081747
+0274ec7d6cd70a5f7e5fc21edc47b801,Máti,5.0,8,,Greek,185 Rue Saint-Paul Ouest,4993.413223769466
+02e0f09887bab2491c3cf2e6d0b477e4,Café Les 3 Jerks,5.0,7,,Haitian,2636 Rue de Bellechasse,9272.906550633095
+02e0f09887bab2491c3cf2e6d0b477e4,Casse-Croûte MangeDansMonHood,4.9,12,,Burgers,1380 Rue Jean-Talon E,10745.418942089136
+02e0f09887bab2491c3cf2e6d0b477e4,Café Zezin,4.9,11,,Cafes,2351 Rue Jean Talon Est,9901.020816311273
+02e0f09887bab2491c3cf2e6d0b477e4,Bako Sushi,4.9,7,,Sushi Bars,4326 Rue Bélanger,7796.991309120296
+02e0f09887bab2491c3cf2e6d0b477e4,Banh Mi Co Kieu,4.9,7,,Vietnamese,2569 Rue Jean-Talon,9647.140728998796
+02e0f09887bab2491c3cf2e6d0b477e4,Mojito & Margarita,4.8,6,,Cuban,3127 Rue Masson,8661.761825494905
+02e0f09887bab2491c3cf2e6d0b477e4,Restaurant Ho Guom,4.8,5,,Vietnamese,2605 Rue Jean-Talon E,9565.83018242951
+02e0f09887bab2491c3cf2e6d0b477e4,Boustan,5.0,4,,Lebanese,8000 Boulevard Henri-Bourassa E,5697.899761035819
+02e0f09887bab2491c3cf2e6d0b477e4,Jardin des Délices,4.8,8,$$,Thai,3537 Rue Rachel E,8019.659071855434
+02e0f09887bab2491c3cf2e6d0b477e4,Flamant Crêpes Café,4.7,7,,Creperies,4593 Rue Bélanger,7445.718645081025
+03306a21cafcf901fa4a45504a834c72,Café Les 3 Jerks,5.0,7,,Haitian,2636 Rue de Bellechasse,2032.9398385153645
+03306a21cafcf901fa4a45504a834c72,Café Guerrero,5.0,5,$,Cafes,6750 Avenue de l'Esplanade,1291.0607285642282
+03306a21cafcf901fa4a45504a834c72,Café Caron & Frères,5.0,6,,Cafes,26 Rue Belanger,849.3763939975642
+03306a21cafcf901fa4a45504a834c72,Café Léo,5.0,6,,Cafes,1215 Rue Berri,4871.279588640457
+03306a21cafcf901fa4a45504a834c72,Casa de Pastel,5.0,5,,Coffee & Tea,4514 Avenue du Parc,2969.3731557943634
+03306a21cafcf901fa4a45504a834c72,Piazza Salumi,5.0,5,,Italian,6833 Boulevard Saint-Laurent,893.9244751978597
+03306a21cafcf901fa4a45504a834c72,Bar Dominion,5.0,5,,Seafood,1243 Rue Metcalfe,5266.837014135587
+03306a21cafcf901fa4a45504a834c72,Nama Omakase,5.0,8,,Japanese,425 Viger Ouest,5482.295919159416
+03306a21cafcf901fa4a45504a834c72,Restaurant Gault,5.0,5,,Breakfast & Brunch,449 Rue Saint Helene,5832.326605373761
+03306a21cafcf901fa4a45504a834c72,YeSushi,5.0,9,,Sushi Bars,1723 Rue Poirier,7330.954718148198
+035f64853a0a8204e33cb4a10898068e,Café Les 3 Jerks,5.0,7,,Haitian,2636 Rue de Bellechasse,6163.542212991565
+035f64853a0a8204e33cb4a10898068e,Café Guerrero,5.0,5,$,Cafes,6750 Avenue de l'Esplanade,5109.014495117827
+035f64853a0a8204e33cb4a10898068e,Café Caron & Frères,5.0,6,,Cafes,26 Rue Belanger,5344.695470318344
+035f64853a0a8204e33cb4a10898068e,Café Kuya,5.0,6,,Filipino,1200 Boulevard Rome,7685.833061277443
+035f64853a0a8204e33cb4a10898068e,Bistro Isakaya,5.0,9,,Japanese,8178 Boulevard Champlain,8273.326379294684
+035f64853a0a8204e33cb4a10898068e,Café Léo,5.0,6,,Cafes,1215 Rue Berri,2512.603441576328
+035f64853a0a8204e33cb4a10898068e,Anita Empanadas,5.0,5,,Argentine,1200 Boulevard Rome,7695.397451114696
+035f64853a0a8204e33cb4a10898068e,Casa de Pastel,5.0,5,,Coffee & Tea,4514 Avenue du Parc,2785.3635475167443
+035f64853a0a8204e33cb4a10898068e,Piazza Salumi,5.0,5,,Italian,6833 Boulevard Saint-Laurent,5276.052962597531
+035f64853a0a8204e33cb4a10898068e,Bar Dominion,5.0,5,,Seafood,1243 Rue Metcalfe,714.1433901521531
+0366a94e06c77055841607882a40a484,Café Les 3 Jerks,5.0,7,,Haitian,2636 Rue de Bellechasse,4679.9974110507455
+0366a94e06c77055841607882a40a484,Café Guerrero,5.0,5,$,Cafes,6750 Avenue de l'Esplanade,3830.349076391721
+0366a94e06c77055841607882a40a484,Café Caron & Frères,5.0,6,,Cafes,26 Rue Belanger,4004.0541177852956
+0366a94e06c77055841607882a40a484,Café Kuya,5.0,6,,Filipino,1200 Boulevard Rome,8811.807088637985
+0366a94e06c77055841607882a40a484,Café Léo,5.0,6,,Cafes,1215 Rue Berri,1741.1840447061734
+0366a94e06c77055841607882a40a484,Anita Empanadas,5.0,5,,Argentine,1200 Boulevard Rome,8821.117501661622
+0366a94e06c77055841607882a40a484,Casa de Pastel,5.0,5,,Coffee & Tea,4514 Avenue du Parc,1370.815641282268
+0366a94e06c77055841607882a40a484,Piazza Salumi,5.0,5,,Italian,6833 Boulevard Saint-Laurent,3938.322461244374
+0366a94e06c77055841607882a40a484,Bar Dominion,5.0,5,,Seafood,1243 Rue Metcalfe,942.9199004019332
+0366a94e06c77055841607882a40a484,Nama Omakase,5.0,8,,Japanese,425 Viger Ouest,1350.4959635646744
+038c0e9e703623cef62123e5e5d4a5d2,Café Les 3 Jerks,5.0,7,,Haitian,2636 Rue de Bellechasse,2973.980677183236
+038c0e9e703623cef62123e5e5d4a5d2,Café Guerrero,5.0,5,$,Cafes,6750 Avenue de l'Esplanade,730.7332407743188
+038c0e9e703623cef62123e5e5d4a5d2,Café Caron & Frères,5.0,6,,Cafes,26 Rue Belanger,481.4295997054421
+038c0e9e703623cef62123e5e5d4a5d2,Café Léo,5.0,6,,Cafes,1215 Rue Berri,5322.401343034691
+038c0e9e703623cef62123e5e5d4a5d2,Casa de Pastel,5.0,5,,Coffee & Tea,4514 Avenue du Parc,3113.003548633045
+038c0e9e703623cef62123e5e5d4a5d2,Piazza Salumi,5.0,5,,Italian,6833 Boulevard Saint-Laurent,541.9971162513342
+038c0e9e703623cef62123e5e5d4a5d2,Bar Dominion,5.0,5,,Seafood,1243 Rue Metcalfe,5409.084056864298
+038c0e9e703623cef62123e5e5d4a5d2,Nama Omakase,5.0,8,,Japanese,425 Viger Ouest,5741.889110733119
+038c0e9e703623cef62123e5e5d4a5d2,Restaurant Gault,5.0,5,,Breakfast & Brunch,449 Rue Saint Helene,6106.639366126241
+038c0e9e703623cef62123e5e5d4a5d2,NDG Luncheonette,5.0,6,,Breakfast & Brunch,6800 Fielding Avenue,8016.791384709478
+03b603c4b20174089f79116554c9c199,Café Les 3 Jerks,5.0,7,,Haitian,2636 Rue de Bellechasse,6794.520871186626
+03b603c4b20174089f79116554c9c199,Café Guerrero,5.0,5,$,Cafes,6750 Avenue de l'Esplanade,3861.101578624438
+03b603c4b20174089f79116554c9c199,Café Caron & Frères,5.0,6,,Cafes,26 Rue Belanger,4305.500236997535
+03b603c4b20174089f79116554c9c199,Bistro Isakaya,5.0,9,,Japanese,8178 Boulevard Champlain,8019.466663375741
+03b603c4b20174089f79116554c9c199,Café Léo,5.0,6,,Cafes,1215 Rue Berri,5909.560284109605
+03b603c4b20174089f79116554c9c199,Casa de Pastel,5.0,5,,Coffee & Tea,4514 Avenue du Parc,3861.9894464908652
+03b603c4b20174089f79116554c9c199,Piazza Salumi,5.0,5,,Italian,6833 Boulevard Saint-Laurent,4251.425115475377
+03b603c4b20174089f79116554c9c199,Bar Dominion,5.0,5,,Seafood,1243 Rue Metcalfe,4570.209772006509
+03b603c4b20174089f79116554c9c199,Nama Omakase,5.0,8,,Japanese,425 Viger Ouest,5299.7999627427325
+03b603c4b20174089f79116554c9c199,Restaurant Gault,5.0,5,,Breakfast & Brunch,449 Rue Saint Helene,5600.230131707066
+0443c94a529a06a28f0d1cc3f287b74f,Café Les 3 Jerks,5.0,7,,Haitian,2636 Rue de Bellechasse,7195.7285400488645
+0443c94a529a06a28f0d1cc3f287b74f,Café Kuya,5.0,6,,Filipino,1200 Boulevard Rome,6636.424576216378
+0443c94a529a06a28f0d1cc3f287b74f,Café Léo,5.0,6,,Cafes,1215 Rue Berri,4047.615183226782
+0443c94a529a06a28f0d1cc3f287b74f,Anita Empanadas,5.0,5,,Argentine,1200 Boulevard Rome,6641.782453671151
+0443c94a529a06a28f0d1cc3f287b74f,Casa de Pastel,5.0,5,,Coffee & Tea,4514 Avenue du Parc,6495.344318736808
+0443c94a529a06a28f0d1cc3f287b74f,Bar Dominion,5.0,5,,Seafood,1243 Rue Metcalfe,5358.425842734926
+0443c94a529a06a28f0d1cc3f287b74f,Nama Omakase,5.0,8,,Japanese,425 Viger Ouest,4607.933901632367
+0443c94a529a06a28f0d1cc3f287b74f,Restaurant Gault,5.0,5,,Breakfast & Brunch,449 Rue Saint Helene,4368.278684388659
+0443c94a529a06a28f0d1cc3f287b74f,Komma Rosta,5.0,5,,Asian Fusion,5300 Rue Wellington,8450.358049359993
+0443c94a529a06a28f0d1cc3f287b74f,Saint JJH & Cafe,5.0,6,,Cafes,3323 Rue Evelyn,7095.185697759175
+0452673f5a00e6632a35b91e7aa195cb,Café Les 3 Jerks,5.0,7,,Haitian,2636 Rue de Bellechasse,3998.5626387322277
+0452673f5a00e6632a35b91e7aa195cb,Café Guerrero,5.0,5,$,Cafes,6750 Avenue de l'Esplanade,1209.1135586979533
+0452673f5a00e6632a35b91e7aa195cb,Café Caron & Frères,5.0,6,,Cafes,26 Rue Belanger,1343.0022738396651
+0452673f5a00e6632a35b91e7aa195cb,Café Léo,5.0,6,,Cafes,1215 Rue Berri,6018.038451339636
+0452673f5a00e6632a35b91e7aa195cb,Casa de Pastel,5.0,5,,Coffee & Tea,4514 Avenue du Parc,3638.579689177438
+0452673f5a00e6632a35b91e7aa195cb,Piazza Salumi,5.0,5,,Italian,6833 Boulevard Saint-Laurent,1364.6261748750087
+0452673f5a00e6632a35b91e7aa195cb,Bar Dominion,5.0,5,,Seafood,1243 Rue Metcalfe,5826.959028510977
+0452673f5a00e6632a35b91e7aa195cb,Nama Omakase,5.0,8,,Japanese,425 Viger Ouest,6261.396600244577
+0452673f5a00e6632a35b91e7aa195cb,Restaurant Gault,5.0,5,,Breakfast & Brunch,449 Rue Saint Helene,6631.857289259324
+0452673f5a00e6632a35b91e7aa195cb,NDG Luncheonette,5.0,6,,Breakfast & Brunch,6800 Fielding Avenue,7419.366913061233
+04c57a547249150f2e0fea6c07bd3037,Café Les 3 Jerks,5.0,7,,Haitian,2636 Rue de Bellechasse,3155.5003636279685
+04c57a547249150f2e0fea6c07bd3037,Café Guerrero,5.0,5,$,Cafes,6750 Avenue de l'Esplanade,6098.242500757496
+04c57a547249150f2e0fea6c07bd3037,Café Caron & Frères,5.0,6,,Cafes,26 Rue Belanger,5778.859780963555
+04c57a547249150f2e0fea6c07bd3037,Café Léo,5.0,6,,Cafes,1215 Rue Berri,4591.019831516904
+04c57a547249150f2e0fea6c07bd3037,Casa de Pastel,5.0,5,,Coffee & Tea,4514 Avenue du Parc,5390.187900927801
+04c57a547249150f2e0fea6c07bd3037,Piazza Salumi,5.0,5,,Italian,6833 Boulevard Saint-Laurent,5780.492065740958
+04c57a547249150f2e0fea6c07bd3037,Bar Dominion,5.0,5,,Seafood,1243 Rue Metcalfe,6314.950501688931
+04c57a547249150f2e0fea6c07bd3037,Nama Omakase,5.0,8,,Japanese,425 Viger Ouest,5874.673251893485
+04c57a547249150f2e0fea6c07bd3037,Restaurant Gault,5.0,5,,Breakfast & Brunch,449 Rue Saint Helene,5991.622863908167
+04c57a547249150f2e0fea6c07bd3037,Máti,5.0,8,,Greek,185 Rue Saint-Paul Ouest,5786.107412219585
+04ebd17e6953392a76c763787d4e8970,Café Kuya,5.0,6,,Filipino,1200 Boulevard Rome,7411.155236320734
+04ebd17e6953392a76c763787d4e8970,Café Léo,5.0,6,,Cafes,1215 Rue Berri,7332.705418434276
+04ebd17e6953392a76c763787d4e8970,Anita Empanadas,5.0,5,,Argentine,1200 Boulevard Rome,7412.3560282331355
+04ebd17e6953392a76c763787d4e8970,Nama Omakase,5.0,8,,Japanese,425 Viger Ouest,7888.96792138562
+04ebd17e6953392a76c763787d4e8970,Restaurant Gault,5.0,5,,Breakfast & Brunch,449 Rue Saint Helene,7629.382890502412
+04ebd17e6953392a76c763787d4e8970,Máti,5.0,8,,Greek,185 Rue Saint-Paul Ouest,7350.16388195398
+04ebd17e6953392a76c763787d4e8970,Chez Cesar,5.0,7,$$,Peruvian,3477 Montée Saint Hubert,4148.836367919453
+04ebd17e6953392a76c763787d4e8970,Café Parfums de Perse,5.0,5,,Cafes,355 Place d’Youville,7471.626837886276
+04ebd17e6953392a76c763787d4e8970,Karahi Point,5.0,5,,Pakistani,4819 Taschereau Longueuil,4080.2083201811092
+04ebd17e6953392a76c763787d4e8970,La Maison Afghane du Kebab,4.9,11,,Afghan,1580 Chemin de Chambly O,1759.6544580163065
+04f6eaaa0d7993020973687c13f41663,Café Les 3 Jerks,5.0,7,,Haitian,2636 Rue de Bellechasse,3173.0182421781515
+04f6eaaa0d7993020973687c13f41663,Café Guerrero,5.0,5,$,Cafes,6750 Avenue de l'Esplanade,5013.8376762468
+04f6eaaa0d7993020973687c13f41663,Café Caron & Frères,5.0,6,,Cafes,26 Rue Belanger,4840.168743591383
+04f6eaaa0d7993020973687c13f41663,Café Léo,5.0,6,,Cafes,1215 Rue Berri,2221.8880623800205
+04f6eaaa0d7993020973687c13f41663,Casa de Pastel,5.0,5,,Coffee & Tea,4514 Avenue du Parc,3488.9833580421996
+04f6eaaa0d7993020973687c13f41663,Piazza Salumi,5.0,5,,Italian,6833 Boulevard Saint-Laurent,4813.368842620313
+04f6eaaa0d7993020973687c13f41663,Bar Dominion,5.0,5,,Seafood,1243 Rue Metcalfe,3976.107594732184
+04f6eaaa0d7993020973687c13f41663,Nama Omakase,5.0,8,,Japanese,425 Viger Ouest,3506.3157387572287
+04f6eaaa0d7993020973687c13f41663,Restaurant Gault,5.0,5,,Breakfast & Brunch,449 Rue Saint Helene,3623.494944882036
+04f6eaaa0d7993020973687c13f41663,NDG Luncheonette,5.0,6,,Breakfast & Brunch,6800 Fielding Avenue,10415.553859421098
+052eb3e7422cdd1cdc5d555cf8d05c98,Café Les 3 Jerks,5.0,7,,Haitian,2636 Rue de Bellechasse,3281.2041434110424
+052eb3e7422cdd1cdc5d555cf8d05c98,Café Guerrero,5.0,5,$,Cafes,6750 Avenue de l'Esplanade,3298.240550007993
+052eb3e7422cdd1cdc5d555cf8d05c98,Café Caron & Frères,5.0,6,,Cafes,26 Rue Belanger,3309.3519966817353
+052eb3e7422cdd1cdc5d555cf8d05c98,Café Kuya,5.0,6,,Filipino,1200 Boulevard Rome,9645.034644922978
+052eb3e7422cdd1cdc5d555cf8d05c98,Café Léo,5.0,6,,Cafes,1215 Rue Berri,1536.6628704061407
+052eb3e7422cdd1cdc5d555cf8d05c98,Anita Empanadas,5.0,5,,Argentine,1200 Boulevard Rome,9653.907608600652
+052eb3e7422cdd1cdc5d555cf8d05c98,Casa de Pastel,5.0,5,,Coffee & Tea,4514 Avenue du Parc,1170.520582273003
+052eb3e7422cdd1cdc5d555cf8d05c98,Piazza Salumi,5.0,5,,Italian,6833 Boulevard Saint-Laurent,3256.890732722993
+052eb3e7422cdd1cdc5d555cf8d05c98,Bar Dominion,5.0,5,,Seafood,1243 Rue Metcalfe,2251.2200223937266
+052eb3e7422cdd1cdc5d555cf8d05c98,Nama Omakase,5.0,8,,Japanese,425 Viger Ouest,2219.805271686314
+05b2ac429b1d77afa9c0d51ebaf1e9cf,Bako Sushi,4.9,7,,Sushi Bars,4326 Rue Bélanger,8069.2802075064965
+05b2ac429b1d77afa9c0d51ebaf1e9cf,Turquoise Maison Ankara,4.8,5,,Turkish,3662 Rue Fleury E,7042.3009735857495
+05b2ac429b1d77afa9c0d51ebaf1e9cf,Déli-Forest Restaurant,4.8,5,$$,Delis,10567 Pie Ix Boul,6278.050721836022
+05b2ac429b1d77afa9c0d51ebaf1e9cf,Boustan,5.0,4,,Lebanese,8000 Boulevard Henri-Bourassa E,1921.9525058957813
+05b2ac429b1d77afa9c0d51ebaf1e9cf,B Burger,4.7,27,,Burgers,3451 Rue Fleury E,7312.97628035683
+05b2ac429b1d77afa9c0d51ebaf1e9cf,Flamant Crêpes Café,4.7,7,,Creperies,4593 Rue Bélanger,7743.099167725219
+05b2ac429b1d77afa9c0d51ebaf1e9cf,Le Saint-Jacques,4.7,10,$$$,Italian,6001 Rue de Jumonville,7673.01873424651
+05b2ac429b1d77afa9c0d51ebaf1e9cf,Restaurant Le Vieux Terrebonne,4.7,6,,Restaurants,855 Rue Saint-Pierre,6720.975964895761
+05b2ac429b1d77afa9c0d51ebaf1e9cf,Sushi Suki,4.7,6,,Sushi Bars,5134 Rue Jean-Talon E,6973.662582134344
+05b2ac429b1d77afa9c0d51ebaf1e9cf,Capucine,4.7,6,,Italian,7000 Boulevard Maurice Duplessis,2407.508736567207
+05b5b355a4772304d10c45029d08deb0,Café Les 3 Jerks,5.0,7,,Haitian,2636 Rue de Bellechasse,7106.270998788031
+05b5b355a4772304d10c45029d08deb0,Café Guerrero,5.0,5,$,Cafes,6750 Avenue de l'Esplanade,6006.995008113307
+05b5b355a4772304d10c45029d08deb0,Café Caron & Frères,5.0,6,,Cafes,26 Rue Belanger,6261.935686014229
+05b5b355a4772304d10c45029d08deb0,Café Kuya,5.0,6,,Filipino,1200 Boulevard Rome,6977.805743691882
+05b5b355a4772304d10c45029d08deb0,Bistro Isakaya,5.0,9,,Japanese,8178 Boulevard Champlain,7564.970526292131
+05b5b355a4772304d10c45029d08deb0,Café Léo,5.0,6,,Cafes,1215 Rue Berri,3234.6651763292957
+05b5b355a4772304d10c45029d08deb0,Anita Empanadas,5.0,5,,Argentine,1200 Boulevard Rome,6987.471234882335
+05b5b355a4772304d10c45029d08deb0,Casa de Pastel,5.0,5,,Coffee & Tea,4514 Avenue du Parc,3732.9191887681995
+05b5b355a4772304d10c45029d08deb0,Piazza Salumi,5.0,5,,Italian,6833 Boulevard Saint-Laurent,6192.64940092496
+05b5b355a4772304d10c45029d08deb0,Bar Dominion,5.0,5,,Seafood,1243 Rue Metcalfe,1593.4266916591052
+05b85e5c98d9b14b3c7bcfbb8e60723b,Bistro Isakaya,5.0,9,,Japanese,8178 Boulevard Champlain,4119.750422673215
+05b85e5c98d9b14b3c7bcfbb8e60723b,Bar Dominion,5.0,5,,Seafood,1243 Rue Metcalfe,9915.803330467825
+05b85e5c98d9b14b3c7bcfbb8e60723b,Nama Omakase,5.0,8,,Japanese,425 Viger Ouest,10607.471052596318
+05b85e5c98d9b14b3c7bcfbb8e60723b,NDG Luncheonette,5.0,6,,Breakfast & Brunch,6800 Fielding Avenue,3391.6010672291886
+05b85e5c98d9b14b3c7bcfbb8e60723b,Komma Rosta,5.0,5,,Asian Fusion,5300 Rue Wellington,7570.035272084901
+05b85e5c98d9b14b3c7bcfbb8e60723b,Saint JJH & Cafe,5.0,6,,Cafes,3323 Rue Evelyn,8064.1575590726625
+05b85e5c98d9b14b3c7bcfbb8e60723b,Kouzina,5.0,5,,Mediterranean,452 Avenue Dorval,6254.4502572112415
+05b85e5c98d9b14b3c7bcfbb8e60723b,Sushi Sama,5.0,5,,Sushi Bars,5200A Chemin de la Côte-des-Neiges,7158.303954520207
+05b85e5c98d9b14b3c7bcfbb8e60723b,Plentea Tea Bar,4.9,14,,Coffee & Tea,377 St. Catherine Street W,10552.679344805252
+05b85e5c98d9b14b3c7bcfbb8e60723b,Mintar,4.9,12,,Cafes,3418B Avenue du Parc,10529.657832102503
+05d84e15f73c72c1037f6c978bffe09e,Café Les 3 Jerks,5.0,7,,Haitian,2636 Rue de Bellechasse,4696.900599122022
+05d84e15f73c72c1037f6c978bffe09e,Café Guerrero,5.0,5,$,Cafes,6750 Avenue de l'Esplanade,2067.3149655095076
+05d84e15f73c72c1037f6c978bffe09e,Café Caron & Frères,5.0,6,,Cafes,26 Rue Belanger,2178.2847961117986
+05d84e15f73c72c1037f6c978bffe09e,Café Léo,5.0,6,,Cafes,1215 Rue Berri,6867.764529381998
+05d84e15f73c72c1037f6c978bffe09e,Casa de Pastel,5.0,5,,Coffee & Tea,4514 Avenue du Parc,4466.356757576374
+05d84e15f73c72c1037f6c978bffe09e,Piazza Salumi,5.0,5,,Italian,6833 Boulevard Saint-Laurent,2206.8732866522055
+05d84e15f73c72c1037f6c978bffe09e,Bar Dominion,5.0,5,,Seafood,1243 Rue Metcalfe,6607.075906515122
+05d84e15f73c72c1037f6c978bffe09e,Nama Omakase,5.0,8,,Japanese,425 Viger Ouest,7071.605816158182
+05d84e15f73c72c1037f6c978bffe09e,Restaurant Gault,5.0,5,,Breakfast & Brunch,449 Rue Saint Helene,7442.30004278867
+05d84e15f73c72c1037f6c978bffe09e,NDG Luncheonette,5.0,6,,Breakfast & Brunch,6800 Fielding Avenue,7506.9156960276405
