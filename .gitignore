@@ -2,3 +2,8 @@
 notebooks/.ipynb_checkpoints/
 notebooks/Untitled.ipynb
 api_keys/secrets.env
+
+# Ignore API keys and output files
+data_collection_and_API/*.txt
+data_collection_and_API/*.csv
+data_collection_and_API/.ipynb_checkpoints/
